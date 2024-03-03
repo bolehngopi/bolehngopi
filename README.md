@@ -1,6 +1,6 @@
-# Hi! Welcome to My Profile
+# Introduction
 
-Thanks to see my profile. Let me introduce myself.
+H1! Welcome to my profile. Let me introduce myself.
 
 I'm a student from Indonesia that just learned programming in late 2019 and still going now. Still can get better and still learning this
 
