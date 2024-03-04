@@ -1,4 +1,4 @@
-<a href="https://twitter.com/azizkhasyi11" target="_blank">![Static Badge](https://img.shields.io/badge/X-Click_Here-black?logo=x&logoColor=white&label=Twitter&labelColor=%23000000&color=white&cacheSeconds=3600&link=https%3A%2F%2Ftwitter.com%2Fazizkhasyi11)</a>
+<a href="https://twitter.com/azizkhasyi11" target="_blank">![Static Badge](https://img.shields.io/badge/X-Follow_Me-black?logo=x&logoColor=white&label=Twitter&labelColor=%23000000&color=white&cacheSeconds=3600&link=https%3A%2F%2Ftwitter.com%2Fazizkhasyi11)</a>
 
 
 # Introduction
