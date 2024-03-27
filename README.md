@@ -1,5 +1,6 @@
-<a href="https://twitter.com/azizkhasyi11" target="_blank">![Static Badge](https://img.shields.io/badge/X-Follow_Me-black?logo=x&logoColor=white&label=Twitter&labelColor=%23000000&color=white&cacheSeconds=3600&link=https%3A%2F%2Ftwitter.com%2Fazizkhasyi11)</a>
+<a name="readme-top"></a>
 
+<a href="https://twitter.com/azizkhasyi11" target="_blank">![Static Badge](https://img.shields.io/badge/X-Follow_Me-black?logo=x&logoColor=white&label=Twitter&labelColor=%23000000&color=white&cacheSeconds=3600&link=https%3A%2F%2Ftwitter.com%2Fazizkhasyi11)</a>
 
 <h1 align="left">Introduction</h1>
 
@@ -18,5 +19,6 @@ I'm a student from Indonesia that just learned programming in late 2019 and stil
 </div>
 
 ---
-- My Website
-  [Click Here](https://azizkhasyi11.github.io)
+### My Website
+* [Click Here](https://azizkhasyi11.github.io)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
