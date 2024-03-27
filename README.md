@@ -75,6 +75,14 @@
 ###
 
 <div align="center">
+  <a href="https://open.spotify.com/user/nsgwtn1gv7jnzgldrcx103w6n">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nsgwtn1gv7jnzgldrcx103w6n&count=1" alt="Spotify Recent Played"/>
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/Azizkhasyi11/count.svg?"  />
 </div>
 
