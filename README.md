@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img height="150" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/74176356?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"  />
+  <img height="400" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/74176356?v=4&h=400&w=400&fit=cover&mask=circle&maxage=7d"  />
 </div>
 
 ###
