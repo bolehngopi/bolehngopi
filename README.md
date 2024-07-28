@@ -66,8 +66,11 @@
 ###
 
 <div align="center">
+  
   ![Azizkhasyi11's Stats](https://github-readme-stats.vercel.app/api?username=Azizkhasyi11&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+  
   ![Azizkhasyi11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizkhasyi11&theme=blueberry&hide_border=true)
+  
   ![Azizkhasyi11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizkhasyi11&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
   <img src="https://raw.githubusercontent.com/Azizkhasyi11/Azizkhasyi11/output/snake.svg" alt="Snake animation" />
 </div>
