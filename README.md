@@ -66,9 +66,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azizkhasyi11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azizkhasyi11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Azizkhasyi11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![Azizkhasyi11's Stats](https://github-readme-stats.vercel.app/api?username=Azizkhasyi11&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+  ![Azizkhasyi11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizkhasyi11&theme=blueberry&hide_border=true)
+  ![Azizkhasyi11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizkhasyi11&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
   <img src="https://raw.githubusercontent.com/Azizkhasyi11/Azizkhasyi11/output/snake.svg" alt="Snake animation" />
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
