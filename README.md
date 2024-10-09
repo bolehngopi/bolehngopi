@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Azizkhasyi11.Azizkhasyi11&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bolehngopi.bolehngopi&"  />
 </div>
 
 ###
@@ -67,12 +67,12 @@
 
 <div align="center">
   
-  ![Azizkhasyi11's Stats](https://github-readme-stats.vercel.app/api?username=Azizkhasyi11&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+  ![Azizkhasyi11's Stats](https://github-readme-stats.vercel.app/api?username=bolehngopi&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
   
-  ![Azizkhasyi11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizkhasyi11&theme=blueberry&hide_border=true)
+  ![Azizkhasyi11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bolehngopi&theme=blueberry&hide_border=true)
   
-  ![Azizkhasyi11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizkhasyi11&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-  <img src="https://raw.githubusercontent.com/Azizkhasyi11/Azizkhasyi11/output/snake.svg" alt="Snake animation" />
+  ![Azizkhasyi11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bolehngopi&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://raw.githubusercontent.com/bolehngopi/bolehngopi/output/snake.svg" alt="Snake animation" />
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +87,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Azizkhasyi11/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/bolehngopi/count.svg?"  />
 </div>
 
 ###
