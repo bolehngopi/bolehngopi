@@ -13,9 +13,6 @@
   <a href="https://www.youtube.com/channel/UCo1dFuTQfPrQpfPZfVdxR6g" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://twitter.com/azizkhasyi11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
   <a href="https://www.instagram.com/aziz_khasyi11/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
@@ -67,11 +64,10 @@
 
 <div align="center">
   
-  ![Azizkhasyi11's Stats](https://github-readme-stats.vercel.app/api?username=bolehngopi&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+ [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=bolehngopi&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/bolehngopi)
   
-  ![Azizkhasyi11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bolehngopi&theme=blueberry&hide_border=true)
-  
-  ![Azizkhasyi11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bolehngopi&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=bolehngopi&theme=dark)](https://git.io/streak-stats)
+
   <img src="https://raw.githubusercontent.com/bolehngopi/bolehngopi/output/snake.svg" alt="Snake animation" />
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
