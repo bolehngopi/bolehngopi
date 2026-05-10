@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Aziz Khasyi from Jakarta, Indonesia<br><br>- 🔭 I’m a student in SMK Negeri 21 Jakarta<br>- 📚 I'm currently learning PHP, Laravel, and Web</p>
+<p align="left">I'm Aziz Khasyi from Jakarta, Indonesia<br><br>- 📚 I'm currently learning PHP, Laravel, and Web</p>
 
 ###
 
